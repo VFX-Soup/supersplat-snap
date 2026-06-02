@@ -32,6 +32,7 @@ The more spread out in 3D space, the more accurate the alignment. 4–6 well-dis
 ---
 
 ## Setup
+You will need Node.JS installed also, download [here](https://nodejs.org/en/download)
 
 ### 1. Clone and set up SuperSplat
 
@@ -45,7 +46,7 @@ npm install
 
 ```bash
 # Clone this repo somewhere
-git clone https://github.com/YOURNAME/supersplat-align.git
+git clone https://github.com/VFX-Soup/supersplat-snap.git
 
 # Copy the new/modified files into your supersplat folder
 cp supersplat-align/src/tools/align-tool.ts  supersplat/src/tools/
