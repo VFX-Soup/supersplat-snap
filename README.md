@@ -1,5 +1,11 @@
 # supersplat-snap
 
+## 🎥 Demo
+
+Click the thumbnail below to watch the demo:
+
+[![Demo Video](https://img.youtube.com/vi/W5FI3u79UrY/maxresdefault.jpg)](https://www.youtube.com/shorts/W5FI3u79UrY)
+
 A **Splat Align** tool for [SuperSplat](https://github.com/playcanvas/supersplat) — the open-source 3D Gaussian Splat editor by PlayCanvas.
 
 Adds a point-correspondence alignment tool that lets you place matching control points across two or more splat files and automatically compute the best-fit transform to align them.
