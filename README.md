@@ -40,7 +40,7 @@ The more spread out in 3D space, the more accurate the alignment. 4–6 well-dis
 ## Setup
 You will need Node.JS installed also, download [here](https://nodejs.org/en/download)
 
-### 1. Clone and set up SuperSplat
+### 1. Clone and set up SuperSplat v2.27.3
 
 ```bash
 git clone https://github.com/playcanvas/supersplat.git
@@ -55,10 +55,10 @@ npm install
 git clone https://github.com/VFX-Soup/supersplat-snap.git
 
 # Copy the new/modified files into your supersplat folder
-cp supersplat-align/src/tools/align-tool.ts  supersplat/src/tools/
-cp supersplat-align/src/camera.ts             supersplat/src/
-cp supersplat-align/src/main.ts               supersplat/src/
-cp supersplat-align/src/ui/bottom-toolbar.ts  supersplat/src/ui/
+cp supersplat-snap/src/tools/align-tool.ts   supersplat-2.27.3/src/tools/
+cp supersplat-snap/src/camera.ts             supersplat/src/
+cp supersplat-snap/src/main.ts               supersplat/src/
+cp supersplat-snap/src/ui/bottom-toolbar.ts  supersplat/src/ui/
 ```
 
 ### 3. Run
